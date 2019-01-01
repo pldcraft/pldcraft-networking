@@ -1,0 +1,8 @@
+[package]
+name = "pldcraft-networking"
+version = "0.1.0"
+authors = ["Andreas Lokko", "Andrey Penechko", "aolko", "Connor Scialdone", "James Martin <james@jtmar.me>", "Krovius", "VermillionAzure", "Zekka Nelson"]
+description = "A library implementing the pldcraft game protocol."
+documentation = "https://github.com/pldcraft/pldcraft/wiki"
+license = "GPL-3.0-or-later"
+edition = "2018"
